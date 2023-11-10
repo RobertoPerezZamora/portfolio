@@ -1,5 +1,7 @@
 # portfolio
 
+![Advanced Computer](https://github.com/RobertoPerezZamora/portfolio/assets/150096831/028d590c-eb83-4721-8ca0-7d2f169991c2)
+
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=60&duration=10000&pause=2000&color=9D47F7&center=true&vCenter=true&random=false&width=1920&height=100&lines=Have+a+nice+day+and+have+fun+%3AD)](https://git.io/typing-svg)
